@@ -1,0 +1,10 @@
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.deps.json
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.runtimeconfig.json
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.runtimeconfig.dev.json
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.dll
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/bin/Debug/netcoreapp2.0/SqlServerSample.pdb
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.csproj.CoreCompileInputs.cache
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.AssemblyInfoInputs.cache
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.AssemblyInfo.cs
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.dll
+/Users/trucnguyen/Desktop/SqlServerSample/SqlServerSample/obj/Debug/netcoreapp2.0/SqlServerSample.pdb
